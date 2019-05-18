@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Kingthings_Trypewriter_2';
+    src: url('fonts/Kingthings_Trypewriter_2.ttf');
+}
+h2{
+    font-size:5vw;
+}
+.overlay {
+    background: #fdd835;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+}
+.main-box {
+    border: 2px;
+    border-color: black;
+    height: 10vh;
+    /*border-style: solid;
+    */
+}
+.middle {
+    border: 2px;
+    border-color: black;
+    height: 89vh;
+    /*border-style: solid;
+    */
+}
+.main-box-results {
+    border: 2px;
+    border-color: black;
+    height: 6vh;
+    /*border-style: solid;
+    */
+}
+.middle-results {
+    border: 2px;
+    border-color: black;
+    height: 93vh;
+    /*border-style: solid;
+    */
+}
+.bottom {
+    border: 2px;
+    border-color: black;
+    height: 1vh;
+    /*border-style: solid;
+    */
+}
+
+.text-style {
+    color: #0d47a1;
+}
